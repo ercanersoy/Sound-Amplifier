@@ -16,7 +16,7 @@ This project licensed under MIT License.
 
 # Schematic
 
-![Schematic](schematic.png)
+![Schematic](schematic/schematic.png)
 
 Circuit schematic created via LTSpice.
 
